@@ -1,0 +1,4363 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "predicate",
+            "group": 1,
+            "id": "professional"
+        },
+        {
+            "concept": "predicate",
+            "group": 2,
+            "id": "gentry"
+        },
+        {
+            "concept": "predicate",
+            "group": 3,
+            "id": "nobility"
+        },
+        {
+            "concept": "predicate",
+            "group": 4,
+            "id": "entrepreneurial-industrialist"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Steele_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Skene_Felicia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "King_Sophia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cobbold_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Taylor_Helen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brett_Dorothy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Russell_Lady_Rachel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hume_Mary_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pix_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Trollope_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gerard_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Heyrick_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Marsden_Dora"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Baker_Ella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Byron_George_Gordon_sixth_Baron"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gingold_H\u00e9l\u00e8ne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Halkett_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Plumptre_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Campbell_Dorothea_Primrose"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Macnaughtan_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sharp_Evelyn"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Shore_Louisa_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lewis_Alethea"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lawrence_Margery"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kingsley_Fanny"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hawke_Cassandra_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tree_Iris"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sayers_Dorothy_L"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Yonge_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Norton_Caroline"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hamilton_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Leigh_Dorothy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jacob_Naomi"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Godden_Rumer"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Taylor_Harriet"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sulter_Maud"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Macaulay_Catharine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Butler_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carrington_Leonora"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Grand_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Boothby_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Barker_Pat"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Harrison_Jane_Ellen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Longworth_Maria_Theresa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Boyle_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gee_Maggie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wood_Emma_Caroline"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Williams_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dinesen_Isak"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Minifie_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Meteyard_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sewell_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brooke_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Barker_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Woodfall_Sophia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Worboise_Emma_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gunning_Susannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lee_Vernon"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Maitland_Sara"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Trotter_Catharine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Griffitts_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dixie_Florence"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Swan_Annie_S"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Johnston_Jennifer"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "King_Harriet_Hamilton"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "James_Elinor"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Boulger_Dorothy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ward_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Vardill_Anna_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Smith_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Marishall_Jean"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sackville-West_Vita"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Martin_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kavanagh_Julia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Roberts_Emma"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hubback_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Campbell_Lady_Colin"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sleath_Eleanor"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lincoln_Elizabeth_Clinton_Countess_of"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Molesworth_Mary_Louisa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Simcox_Edith_J"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Eden_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Marie_de_France"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mildmay_Grace_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jones_E_B_C"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ackland_Valentine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ogle_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cellier_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Butler_Josephine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kelly_Isabella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Shore_Margaret_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Godley_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Baldwin_Louisa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Thimelby_Gertrude"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fiennes_Celia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Talbot_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Conway_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Montefiore_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Scott_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Burnett_Frances_Hodgson"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Benger_Elizabeth_Ogilvy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Chapone_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Major_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Griffith_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Craig_Edith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Warren_Mercy_Otis"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Harkness_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fanshawe_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bront\u00eb_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carleton_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hofland_Barbara"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Swinburne_Algernon_Charles"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Porter_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cook_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lyttelton_Edith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "DAnvers_Alicia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cary_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lucan_Margaret_Bingham_Countess"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pennington_Sarah_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Abergavenny_Frances_Neville_Baroness"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Elstob_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Morgan_Sydney_Owenson_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Villari_Linda"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Trollope_Frances_Eleanor"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lytton_Edward_George_Earle_Lytton_Bulwer-Lytton_first_Baron"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Elliott_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jones_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fage_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jebb_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Barcynska_H\u00e9l\u00e8ne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carey_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mozley_Harriett"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wordsworth_Dorothy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gallant_Mavis"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wilson_Harriette"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Peard_Frances_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bury_Lady_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Plumptre_C_E"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wilkinson_Sarah_Scudgell"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tucker_Charlotte_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hill_Selima"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rhondda_Margaret_Haig_Viscountess"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Meredith_Louisa_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Yearsley_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Reid_Marion"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kazantzis_Judith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Williams_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kempe_Margery"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tindal_Henrietta_Euphemia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Green_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Grant_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Alison_Archibald_1792_-_1867"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Webb_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Williams_Helen_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Thirkell_Angela"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Morris_William"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Moffat_Gwen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Struther_Jan"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Leverson_Ada"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fawcett_Millicent_Garrett"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lead_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Justice_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Shore_Arabella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Macquoid_Katharine_S"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tytler_Harriet"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Allen_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Riddell_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ouida"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Haywood_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jewsbury_Maria_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Drake_Judith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gore_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Smedley_Menella_Bute"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pfeiffer_Emily_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ingelow_Jean"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "More_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mitford_Mary_Russell"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cather_Willa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hemans_Felicia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Renault_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dobson_Susannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Voynich_Ethel_Lilian"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carrington_Dora"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Marsh_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hull_E_M"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fenton_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tighe_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cartland_Barbara"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kemble_Maria_Theresa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Aubin_Penelope"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brooke_Emma_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fielding_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Warren_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hoby_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kemble_Fanny"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Beeton_Isabella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Harvey_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stretton_Julia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mackenzie_Anna_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Askew_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jhabvala_Ruth_Prawer"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lee_Harriet"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hutchinson_Lucy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wright_Mehetabel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Steele_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Egerton_George"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Houstoun_Matilda_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bellerby_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tinsley_Annie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Phillips_Teresia_Constantia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Browne_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Young_Mary_Julia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gore-Booth_Eva"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stuart_Lady_Louisa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bowles_Caroline"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Chanter_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Coleridge_Mary_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Meade_L_T"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dowriche_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kilham_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hunter_Rachel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bryher"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Craik_Georgiana"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Somerville_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Aguilar_Grace"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tatlock_Eleanor"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Middlemass_Jean"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Davies_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Chopin_Kate"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bryan_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Taylor_Ann_Martin"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dacre_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wright_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fyge_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Craik_Dinah_Mulock"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Johnson_Pauline"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pilkington_Laetitia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Linton_Eliza_Lynn"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Plumptre_Annabella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Warner_Sylvia_Townsend"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gardner_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kennedy_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rowson_Susanna_Haswell"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Edwards_Amelia_B"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Procter_Adelaide"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hume_Sophia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sackville_Lady_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Meynell_Alice"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Swanwick_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wolferstan_Elizabeth_Pipe"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Leapor_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Savi_Ethel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Smith_Zadie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wells_Helena"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Clerke_Agnes_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jesse_F_Tennyson"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ferrier_Susan"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jevons_Mary_Anne_the_elder"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "OKeeffe_Adelaide"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Coleridge_Sara"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Parker_Mary_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Whitney_Isabella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gonne_Maud"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Chambers_Marianne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Watts_Susanna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Docwra_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Clarke_Mary_Cowden"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tweedsmuir_Susan"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stone_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Huxley_Elspeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Costello_Louisa_Stuart"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mario_Jessie_White"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Napier_Elma"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wesley_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Delafield_E_M"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Damer_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bagnold_Enid"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wilde_Jane_Francesca_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Walker_Lady_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fenwick_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Senior_Olive"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Innes_Kathleen_E"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Shelley_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Foster_Hannah_Webster"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Burney_Sarah_Harriet"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Farr_Florence"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Aikin_Lucy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wolley_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Osborne_Dorothy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hervey_Elizabeth_1748_-_1820"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Falkland_Elizabeth_Cary_Viscountess"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Nooth_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Schurman_Anna_Maria_van"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Shaw_Flora"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sheridan_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Betham_Mary_Matilda"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Showes_Mrs"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fraser_Antonia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wollstonecraft_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fay_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Green_Henry"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pinter_Harold"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hays_Matilda"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cowper_Sarah_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bawden_Nina"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Atkins_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Trimmer_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mew_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cunard_Nancy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Montagu_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Potter_Beatrix"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wedgwood_Julia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bowen_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Isham_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hill_Isabel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "von_Arnim_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Opie_Amelia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tremain_Rose"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Moodie_Susanna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Charles_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Anna_Livia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Colling_Mary_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jay_Harriett"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tytler_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Legge_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Behn_Aphra"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Warwick_Mary_Rich_Countess_of"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bonhote_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Garnett_Constance"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hickey_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "St_John_Christopher"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Croker_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Blyton_Enid"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lewis_Sarah_1824_-_1880"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stevenson_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wesley_Susanna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bacon_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Collier_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Falconbridge_Anna_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Braddon_Mary_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bowes_Lyon_Lilian"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Austen_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fell_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Palmer_Alicia_Tyndal"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Alexander_Cecil_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bentley_Phyllis"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tollet_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Montgomery_L_M"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dempster_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Austin_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Marsh_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Holland_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Seward_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Villedieu_Marie-Catherine_de"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Marx_Karl"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bray_Anna_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pulter_Lady_Hester"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Porden_Eleanor_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brunton_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Radcliffe_Mary_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carpenter_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mitchison_Naomi"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Speght_Rachel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sewell_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lennox_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sykes_Henrietta"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Shirreff_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Clerke_Ellen_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hamilton_Cicely"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Chapone_Hester_Mulso"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Compton-Burnett_Ivy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Giberne_Agnes"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Downing_Harriet"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cannan_May"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Blackwood_Caroline"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Banks_Isabella"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Crompton_Richmal"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lehmann_Rosamond"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Robinson_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Templeton_Edith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lynch_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rossetti_Christina"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Faithfull_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Abdy_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Davys_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pardoe_Julia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wheeler_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Evans_Katharine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sappho"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wright_Susanna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Doyle_Sir_Arthur_Conan"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Darwall_Mary_Whateley"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mozley_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Conrad_Joseph"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Thimelby_Winefrid"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Eliot_George"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tautphoeus_Jemima"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Keary_Annie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ayres_Ruby_M"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "H\u00e9lo\u00efse"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bodichon_Barbara_Leigh_Smith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bront\u00eb_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Elliott_Grace"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tree_Viola"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Plath_Sylvia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Trefusis_Violet"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Robinson_A_Mary_F"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rigby_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Strutt_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Crosland_Camilla"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Munro_Georgina"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Troubridge_Una"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Savage_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brittain_Vera"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Forman_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mead_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gregory_Augusta"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Coleridge_Christabel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Killigrew_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Warton_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Devonshire_Georgiana_Cavendish_Duchess_of"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dunlop_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cross_Victoria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dickinson_Emily"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ford_Isabella_Ormston"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wenman_Agnes"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Morton_Sarah_Wentworth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dillwyn_E_A"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cornford_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Thomas_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Anspach_Elizabeth_Margravine_of"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Polwhele_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Black_Clementina"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bront\u00eb_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Colenso_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tonna_Charlotte_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wharton_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Edginton_May"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jenkin_Henrietta_Camilla"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Arendt_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Markievicz_Constance_Countess"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hays_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mirrlees_Hope"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Alexander_Mrs"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Blaugdone_Barbara"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Scott_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jacson_Maria_Elizabetha"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Miles_Susan"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wiseman_Jane"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Young_E_H"
+        }
+    ],
+    "links": [
+        {
+            "source": "professional",
+            "target": "Steele_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Skene_Felicia"
+        },
+        {
+            "source": "professional",
+            "target": "Trollope_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Heyrick_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Baker_Ella"
+        },
+        {
+            "source": "professional",
+            "target": "Gingold_H\u00e9l\u00e8ne"
+        },
+        {
+            "source": "professional",
+            "target": "Halkett_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Plumptre_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Campbell_Dorothea_Primrose"
+        },
+        {
+            "source": "professional",
+            "target": "Shore_Louisa_Catherine"
+        },
+        {
+            "source": "professional",
+            "target": "Lawrence_Margery"
+        },
+        {
+            "source": "professional",
+            "target": "Sayers_Dorothy_L"
+        },
+        {
+            "source": "professional",
+            "target": "Yonge_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Jacob_Naomi"
+        },
+        {
+            "source": "professional",
+            "target": "Godden_Rumer"
+        },
+        {
+            "source": "professional",
+            "target": "Butler_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Boothby_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Barker_Pat"
+        },
+        {
+            "source": "professional",
+            "target": "Gee_Maggie"
+        },
+        {
+            "source": "professional",
+            "target": "Meteyard_Eliza"
+        },
+        {
+            "source": "professional",
+            "target": "Sewell_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Woodfall_Sophia"
+        },
+        {
+            "source": "professional",
+            "target": "Worboise_Emma_Jane"
+        },
+        {
+            "source": "professional",
+            "target": "Gunning_Susannah"
+        },
+        {
+            "source": "professional",
+            "target": "Johnston_Jennifer"
+        },
+        {
+            "source": "professional",
+            "target": "Boulger_Dorothy"
+        },
+        {
+            "source": "professional",
+            "target": "Vardill_Anna_Jane"
+        },
+        {
+            "source": "professional",
+            "target": "Roberts_Emma"
+        },
+        {
+            "source": "professional",
+            "target": "Hubback_Catherine"
+        },
+        {
+            "source": "professional",
+            "target": "Sleath_Eleanor"
+        },
+        {
+            "source": "professional",
+            "target": "Jones_E_B_C"
+        },
+        {
+            "source": "professional",
+            "target": "Ackland_Valentine"
+        },
+        {
+            "source": "professional",
+            "target": "Ogle_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Butler_Josephine"
+        },
+        {
+            "source": "professional",
+            "target": "Shore_Margaret_Emily"
+        },
+        {
+            "source": "professional",
+            "target": "Baldwin_Louisa"
+        },
+        {
+            "source": "professional",
+            "target": "Burnett_Frances_Hodgson"
+        },
+        {
+            "source": "professional",
+            "target": "Benger_Elizabeth_Ogilvy"
+        },
+        {
+            "source": "professional",
+            "target": "Chapone_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Griffith_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Craig_Edith"
+        },
+        {
+            "source": "professional",
+            "target": "Warren_Mercy_Otis"
+        },
+        {
+            "source": "professional",
+            "target": "Harkness_Margaret"
+        },
+        {
+            "source": "professional",
+            "target": "Bront\u00eb_Emily"
+        },
+        {
+            "source": "professional",
+            "target": "Hofland_Barbara"
+        },
+        {
+            "source": "professional",
+            "target": "Porter_Jane"
+        },
+        {
+            "source": "professional",
+            "target": "DAnvers_Alicia"
+        },
+        {
+            "source": "professional",
+            "target": "Pennington_Sarah_Lady"
+        },
+        {
+            "source": "professional",
+            "target": "Trollope_Frances_Eleanor"
+        },
+        {
+            "source": "professional",
+            "target": "Jebb_Ann"
+        },
+        {
+            "source": "professional",
+            "target": "Wordsworth_Dorothy"
+        },
+        {
+            "source": "professional",
+            "target": "Gallant_Mavis"
+        },
+        {
+            "source": "professional",
+            "target": "Plumptre_C_E"
+        },
+        {
+            "source": "professional",
+            "target": "Wilkinson_Sarah_Scudgell"
+        },
+        {
+            "source": "professional",
+            "target": "Tucker_Charlotte_Maria"
+        },
+        {
+            "source": "professional",
+            "target": "Taylor_Helen"
+        },
+        {
+            "source": "professional",
+            "target": "Hill_Selima"
+        },
+        {
+            "source": "professional",
+            "target": "Meredith_Louisa_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Kempe_Margery"
+        },
+        {
+            "source": "professional",
+            "target": "Green_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "King_Sophia"
+        },
+        {
+            "source": "professional",
+            "target": "Webb_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Williams_Helen_Maria"
+        },
+        {
+            "source": "professional",
+            "target": "Thirkell_Angela"
+        },
+        {
+            "source": "professional",
+            "target": "Morris_William"
+        },
+        {
+            "source": "professional",
+            "target": "Moffat_Gwen"
+        },
+        {
+            "source": "professional",
+            "target": "Struther_Jan"
+        },
+        {
+            "source": "professional",
+            "target": "Leverson_Ada"
+        },
+        {
+            "source": "professional",
+            "target": "Shore_Arabella"
+        },
+        {
+            "source": "professional",
+            "target": "Tytler_Harriet"
+        },
+        {
+            "source": "professional",
+            "target": "Drake_Judith"
+        },
+        {
+            "source": "professional",
+            "target": "Gore_Catherine"
+        },
+        {
+            "source": "professional",
+            "target": "Smedley_Menella_Bute"
+        },
+        {
+            "source": "professional",
+            "target": "Ingelow_Jean"
+        },
+        {
+            "source": "professional",
+            "target": "Mitford_Mary_Russell"
+        },
+        {
+            "source": "professional",
+            "target": "Renault_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Dobson_Susannah"
+        },
+        {
+            "source": "professional",
+            "target": "Voynich_Ethel_Lilian"
+        },
+        {
+            "source": "professional",
+            "target": "Carrington_Dora"
+        },
+        {
+            "source": "professional",
+            "target": "Fenton_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Ouida"
+        },
+        {
+            "source": "professional",
+            "target": "Kemble_Maria_Theresa"
+        },
+        {
+            "source": "professional",
+            "target": "Warren_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Kemble_Fanny"
+        },
+        {
+            "source": "professional",
+            "target": "Mackenzie_Anna_Maria"
+        },
+        {
+            "source": "professional",
+            "target": "Jhabvala_Ruth_Prawer"
+        },
+        {
+            "source": "professional",
+            "target": "Lee_Harriet"
+        },
+        {
+            "source": "professional",
+            "target": "Wright_Mehetabel"
+        },
+        {
+            "source": "professional",
+            "target": "Bellerby_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Tinsley_Annie"
+        },
+        {
+            "source": "professional",
+            "target": "Young_Mary_Julia"
+        },
+        {
+            "source": "professional",
+            "target": "Chanter_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Coleridge_Mary_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Meade_L_T"
+        },
+        {
+            "source": "professional",
+            "target": "Kilham_Hannah"
+        },
+        {
+            "source": "professional",
+            "target": "Bryher"
+        },
+        {
+            "source": "professional",
+            "target": "Craik_Georgiana"
+        },
+        {
+            "source": "professional",
+            "target": "Tatlock_Eleanor"
+        },
+        {
+            "source": "professional",
+            "target": "Davies_Emily"
+        },
+        {
+            "source": "professional",
+            "target": "Bryan_Margaret"
+        },
+        {
+            "source": "professional",
+            "target": "Taylor_Ann_Martin"
+        },
+        {
+            "source": "professional",
+            "target": "Fyge_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Craik_Dinah_Mulock"
+        },
+        {
+            "source": "professional",
+            "target": "Pilkington_Laetitia"
+        },
+        {
+            "source": "professional",
+            "target": "Linton_Eliza_Lynn"
+        },
+        {
+            "source": "professional",
+            "target": "Plumptre_Annabella"
+        },
+        {
+            "source": "professional",
+            "target": "Lewis_Alethea"
+        },
+        {
+            "source": "professional",
+            "target": "Warner_Sylvia_Townsend"
+        },
+        {
+            "source": "professional",
+            "target": "Gardner_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Kennedy_Margaret"
+        },
+        {
+            "source": "professional",
+            "target": "Rowson_Susanna_Haswell"
+        },
+        {
+            "source": "professional",
+            "target": "Edwards_Amelia_B"
+        },
+        {
+            "source": "professional",
+            "target": "Procter_Adelaide"
+        },
+        {
+            "source": "professional",
+            "target": "Hume_Sophia"
+        },
+        {
+            "source": "professional",
+            "target": "Savi_Ethel"
+        },
+        {
+            "source": "professional",
+            "target": "Smith_Zadie"
+        },
+        {
+            "source": "professional",
+            "target": "Phillips_Teresia_Constantia"
+        },
+        {
+            "source": "professional",
+            "target": "Wells_Helena"
+        },
+        {
+            "source": "professional",
+            "target": "Clerke_Agnes_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Jesse_F_Tennyson"
+        },
+        {
+            "source": "professional",
+            "target": "Jevons_Mary_Anne_the_elder"
+        },
+        {
+            "source": "professional",
+            "target": "Coleridge_Sara"
+        },
+        {
+            "source": "professional",
+            "target": "Parker_Mary_Ann"
+        },
+        {
+            "source": "professional",
+            "target": "Chambers_Marianne"
+        },
+        {
+            "source": "professional",
+            "target": "Clarke_Mary_Cowden"
+        },
+        {
+            "source": "professional",
+            "target": "Tweedsmuir_Susan"
+        },
+        {
+            "source": "professional",
+            "target": "Stone_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Costello_Louisa_Stuart"
+        },
+        {
+            "source": "professional",
+            "target": "Wesley_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Meynell_Alice"
+        },
+        {
+            "source": "professional",
+            "target": "Wilde_Jane_Francesca_Lady"
+        },
+        {
+            "source": "professional",
+            "target": "Fenwick_Eliza"
+        },
+        {
+            "source": "professional",
+            "target": "Innes_Kathleen_E"
+        },
+        {
+            "source": "professional",
+            "target": "Shelley_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Burney_Sarah_Harriet"
+        },
+        {
+            "source": "professional",
+            "target": "Farr_Florence"
+        },
+        {
+            "source": "professional",
+            "target": "Aikin_Lucy"
+        },
+        {
+            "source": "professional",
+            "target": "Nooth_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Shaw_Flora"
+        },
+        {
+            "source": "professional",
+            "target": "Sheridan_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Showes_Mrs"
+        },
+        {
+            "source": "professional",
+            "target": "Fay_Eliza"
+        },
+        {
+            "source": "professional",
+            "target": "Bawden_Nina"
+        },
+        {
+            "source": "professional",
+            "target": "Atkins_Anna"
+        },
+        {
+            "source": "professional",
+            "target": "Trimmer_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Mew_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Trotter_Catharine"
+        },
+        {
+            "source": "professional",
+            "target": "Wedgwood_Julia"
+        },
+        {
+            "source": "professional",
+            "target": "Bowen_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Chopin_Kate"
+        },
+        {
+            "source": "professional",
+            "target": "Hill_Isabel"
+        },
+        {
+            "source": "professional",
+            "target": "Opie_Amelia"
+        },
+        {
+            "source": "professional",
+            "target": "Tremain_Rose"
+        },
+        {
+            "source": "professional",
+            "target": "Charles_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Anna_Livia"
+        },
+        {
+            "source": "professional",
+            "target": "Norton_Caroline"
+        },
+        {
+            "source": "professional",
+            "target": "Betham_Mary_Matilda"
+        },
+        {
+            "source": "professional",
+            "target": "Jay_Harriett"
+        },
+        {
+            "source": "professional",
+            "target": "Tytler_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Behn_Aphra"
+        },
+        {
+            "source": "professional",
+            "target": "Bonhote_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Garnett_Constance"
+        },
+        {
+            "source": "professional",
+            "target": "St_John_Christopher"
+        },
+        {
+            "source": "professional",
+            "target": "Croker_Margaret"
+        },
+        {
+            "source": "professional",
+            "target": "Blyton_Enid"
+        },
+        {
+            "source": "professional",
+            "target": "Stevenson_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Wesley_Susanna"
+        },
+        {
+            "source": "professional",
+            "target": "Collier_Jane"
+        },
+        {
+            "source": "professional",
+            "target": "Palmer_Alicia_Tyndal"
+        },
+        {
+            "source": "professional",
+            "target": "Alexander_Cecil_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Cartland_Barbara"
+        },
+        {
+            "source": "professional",
+            "target": "Tollet_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Montgomery_L_M"
+        },
+        {
+            "source": "professional",
+            "target": "Austin_Sarah"
+        },
+        {
+            "source": "professional",
+            "target": "Seward_Anna"
+        },
+        {
+            "source": "professional",
+            "target": "Marx_Karl"
+        },
+        {
+            "source": "professional",
+            "target": "Peard_Frances_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Watts_Susanna"
+        },
+        {
+            "source": "professional",
+            "target": "Braddon_Mary_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Carpenter_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Lennox_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Shirreff_Emily"
+        },
+        {
+            "source": "professional",
+            "target": "Clerke_Ellen_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Hamilton_Cicely"
+        },
+        {
+            "source": "professional",
+            "target": "Carleton_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Giberne_Agnes"
+        },
+        {
+            "source": "professional",
+            "target": "Minifie_Margaret"
+        },
+        {
+            "source": "professional",
+            "target": "Downing_Harriet"
+        },
+        {
+            "source": "professional",
+            "target": "Morgan_Sydney_Owenson_Lady"
+        },
+        {
+            "source": "professional",
+            "target": "Cannan_May"
+        },
+        {
+            "source": "professional",
+            "target": "Crompton_Richmal"
+        },
+        {
+            "source": "professional",
+            "target": "Lehmann_Rosamond"
+        },
+        {
+            "source": "professional",
+            "target": "Rossetti_Christina"
+        },
+        {
+            "source": "professional",
+            "target": "Faithfull_Emily"
+        },
+        {
+            "source": "professional",
+            "target": "Abdy_Maria"
+        },
+        {
+            "source": "professional",
+            "target": "Davys_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Pardoe_Julia"
+        },
+        {
+            "source": "professional",
+            "target": "Wright_Susanna"
+        },
+        {
+            "source": "professional",
+            "target": "Eliot_George"
+        },
+        {
+            "source": "professional",
+            "target": "Ayres_Ruby_M"
+        },
+        {
+            "source": "professional",
+            "target": "Bodichon_Barbara_Leigh_Smith"
+        },
+        {
+            "source": "professional",
+            "target": "Bront\u00eb_Anne"
+        },
+        {
+            "source": "professional",
+            "target": "Elliott_Grace"
+        },
+        {
+            "source": "professional",
+            "target": "Wood_Emma_Caroline"
+        },
+        {
+            "source": "professional",
+            "target": "Plath_Sylvia"
+        },
+        {
+            "source": "professional",
+            "target": "Robinson_A_Mary_F"
+        },
+        {
+            "source": "professional",
+            "target": "Rigby_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Strutt_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Munro_Georgina"
+        },
+        {
+            "source": "professional",
+            "target": "Forman_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Mead_Margaret"
+        },
+        {
+            "source": "professional",
+            "target": "Coleridge_Christabel"
+        },
+        {
+            "source": "professional",
+            "target": "Warton_Jane"
+        },
+        {
+            "source": "professional",
+            "target": "Dunlop_Eliza"
+        },
+        {
+            "source": "professional",
+            "target": "Dickinson_Emily"
+        },
+        {
+            "source": "professional",
+            "target": "Cornford_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Thomas_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Polwhele_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Stretton_Julia"
+        },
+        {
+            "source": "professional",
+            "target": "Black_Clementina"
+        },
+        {
+            "source": "professional",
+            "target": "Bront\u00eb_Charlotte"
+        },
+        {
+            "source": "professional",
+            "target": "Colenso_Frances"
+        },
+        {
+            "source": "professional",
+            "target": "Tonna_Charlotte_Elizabeth"
+        },
+        {
+            "source": "professional",
+            "target": "Edginton_May"
+        },
+        {
+            "source": "professional",
+            "target": "Jenkin_Henrietta_Camilla"
+        },
+        {
+            "source": "professional",
+            "target": "Hays_Mary"
+        },
+        {
+            "source": "professional",
+            "target": "Alexander_Mrs"
+        },
+        {
+            "source": "professional",
+            "target": "Gonne_Maud"
+        },
+        {
+            "source": "professional",
+            "target": "Miles_Susan"
+        },
+        {
+            "source": "gentry",
+            "target": "King_Sophia"
+        },
+        {
+            "source": "gentry",
+            "target": "Taylor_Helen"
+        },
+        {
+            "source": "gentry",
+            "target": "Gerard_Emily"
+        },
+        {
+            "source": "gentry",
+            "target": "Macnaughtan_Sarah"
+        },
+        {
+            "source": "gentry",
+            "target": "Hawke_Cassandra_Lady"
+        },
+        {
+            "source": "gentry",
+            "target": "Hamilton_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Leigh_Dorothy"
+        },
+        {
+            "source": "gentry",
+            "target": "Taylor_Harriet"
+        },
+        {
+            "source": "gentry",
+            "target": "Sulter_Maud"
+        },
+        {
+            "source": "gentry",
+            "target": "Macaulay_Catharine"
+        },
+        {
+            "source": "gentry",
+            "target": "Grand_Sarah"
+        },
+        {
+            "source": "gentry",
+            "target": "Boyle_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Williams_Jane"
+        },
+        {
+            "source": "gentry",
+            "target": "Minifie_Margaret"
+        },
+        {
+            "source": "gentry",
+            "target": "Brooke_Frances"
+        },
+        {
+            "source": "gentry",
+            "target": "Barker_Jane"
+        },
+        {
+            "source": "gentry",
+            "target": "Lee_Vernon"
+        },
+        {
+            "source": "gentry",
+            "target": "Ward_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Marishall_Jean"
+        },
+        {
+            "source": "gentry",
+            "target": "Martin_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Kavanagh_Julia"
+        },
+        {
+            "source": "gentry",
+            "target": "Campbell_Lady_Colin"
+        },
+        {
+            "source": "gentry",
+            "target": "Mildmay_Grace_Lady"
+        },
+        {
+            "source": "gentry",
+            "target": "Cellier_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Thimelby_Gertrude"
+        },
+        {
+            "source": "gentry",
+            "target": "Fiennes_Celia"
+        },
+        {
+            "source": "gentry",
+            "target": "Talbot_Catherine"
+        },
+        {
+            "source": "gentry",
+            "target": "Scott_Sarah"
+        },
+        {
+            "source": "gentry",
+            "target": "Major_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Fanshawe_Catherine"
+        },
+        {
+            "source": "gentry",
+            "target": "Lyttelton_Edith"
+        },
+        {
+            "source": "gentry",
+            "target": "Ogle_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Norton_Caroline"
+        },
+        {
+            "source": "gentry",
+            "target": "Cary_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Lytton_Edward_George_Earle_Lytton_Bulwer-Lytton_first_Baron"
+        },
+        {
+            "source": "gentry",
+            "target": "Carey_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Peard_Frances_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Bury_Lady_Charlotte"
+        },
+        {
+            "source": "gentry",
+            "target": "Rhondda_Margaret_Haig_Viscountess"
+        },
+        {
+            "source": "gentry",
+            "target": "Tindal_Henrietta_Euphemia"
+        },
+        {
+            "source": "gentry",
+            "target": "Grant_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Lead_Jane"
+        },
+        {
+            "source": "gentry",
+            "target": "Justice_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Riddell_Charlotte"
+        },
+        {
+            "source": "gentry",
+            "target": "Haywood_Eliza"
+        },
+        {
+            "source": "gentry",
+            "target": "More_Hannah"
+        },
+        {
+            "source": "gentry",
+            "target": "Cather_Willa"
+        },
+        {
+            "source": "gentry",
+            "target": "Harrison_Jane_Ellen"
+        },
+        {
+            "source": "gentry",
+            "target": "Marsh_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Godden_Rumer"
+        },
+        {
+            "source": "gentry",
+            "target": "Tighe_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Brooke_Emma_Frances"
+        },
+        {
+            "source": "gentry",
+            "target": "Hoby_Margaret"
+        },
+        {
+            "source": "gentry",
+            "target": "Beeton_Isabella"
+        },
+        {
+            "source": "gentry",
+            "target": "Stretton_Julia"
+        },
+        {
+            "source": "gentry",
+            "target": "Askew_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Hutchinson_Lucy"
+        },
+        {
+            "source": "gentry",
+            "target": "Phillips_Teresia_Constantia"
+        },
+        {
+            "source": "gentry",
+            "target": "Browne_Frances"
+        },
+        {
+            "source": "gentry",
+            "target": "Gore-Booth_Eva"
+        },
+        {
+            "source": "gentry",
+            "target": "Dowriche_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Somerville_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Middlemass_Jean"
+        },
+        {
+            "source": "gentry",
+            "target": "Dacre_Charlotte"
+        },
+        {
+            "source": "gentry",
+            "target": "Johnson_Pauline"
+        },
+        {
+            "source": "gentry",
+            "target": "Meynell_Alice"
+        },
+        {
+            "source": "gentry",
+            "target": "Wolferstan_Elizabeth_Pipe"
+        },
+        {
+            "source": "gentry",
+            "target": "Ferrier_Susan"
+        },
+        {
+            "source": "gentry",
+            "target": "OKeeffe_Adelaide"
+        },
+        {
+            "source": "gentry",
+            "target": "Watts_Susanna"
+        },
+        {
+            "source": "gentry",
+            "target": "Docwra_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Hemans_Felicia"
+        },
+        {
+            "source": "gentry",
+            "target": "Napier_Elma"
+        },
+        {
+            "source": "gentry",
+            "target": "Delafield_E_M"
+        },
+        {
+            "source": "gentry",
+            "target": "Damer_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Senior_Olive"
+        },
+        {
+            "source": "gentry",
+            "target": "Boothby_Frances"
+        },
+        {
+            "source": "gentry",
+            "target": "Gardner_Sarah"
+        },
+        {
+            "source": "gentry",
+            "target": "Wolley_Hannah"
+        },
+        {
+            "source": "gentry",
+            "target": "Osborne_Dorothy"
+        },
+        {
+            "source": "gentry",
+            "target": "Falkland_Elizabeth_Cary_Viscountess"
+        },
+        {
+            "source": "gentry",
+            "target": "Schurman_Anna_Maria_van"
+        },
+        {
+            "source": "gentry",
+            "target": "Betham_Mary_Matilda"
+        },
+        {
+            "source": "gentry",
+            "target": "Green_Henry"
+        },
+        {
+            "source": "gentry",
+            "target": "Cunard_Nancy"
+        },
+        {
+            "source": "gentry",
+            "target": "Montagu_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Potter_Beatrix"
+        },
+        {
+            "source": "gentry",
+            "target": "Chopin_Kate"
+        },
+        {
+            "source": "gentry",
+            "target": "Moodie_Susanna"
+        },
+        {
+            "source": "gentry",
+            "target": "Colling_Mary_Maria"
+        },
+        {
+            "source": "gentry",
+            "target": "Warwick_Mary_Rich_Countess_of"
+        },
+        {
+            "source": "gentry",
+            "target": "Hickey_Emily"
+        },
+        {
+            "source": "gentry",
+            "target": "Lewis_Sarah_1824_-_1880"
+        },
+        {
+            "source": "gentry",
+            "target": "Bacon_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Clerke_Agnes_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Braddon_Mary_Elizabeth"
+        },
+        {
+            "source": "gentry",
+            "target": "Bowes_Lyon_Lilian"
+        },
+        {
+            "source": "gentry",
+            "target": "Fell_Margaret"
+        },
+        {
+            "source": "gentry",
+            "target": "Dempster_Charlotte"
+        },
+        {
+            "source": "gentry",
+            "target": "Marsh_Catherine"
+        },
+        {
+            "source": "gentry",
+            "target": "Villedieu_Marie-Catherine_de"
+        },
+        {
+            "source": "gentry",
+            "target": "Carrington_Leonora"
+        },
+        {
+            "source": "gentry",
+            "target": "Porden_Eleanor_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Mitchison_Naomi"
+        },
+        {
+            "source": "gentry",
+            "target": "Sykes_Henrietta"
+        },
+        {
+            "source": "gentry",
+            "target": "Chapone_Hester_Mulso"
+        },
+        {
+            "source": "gentry",
+            "target": "Austen_Jane"
+        },
+        {
+            "source": "gentry",
+            "target": "Compton-Burnett_Ivy"
+        },
+        {
+            "source": "gentry",
+            "target": "Mitford_Mary_Russell"
+        },
+        {
+            "source": "gentry",
+            "target": "Templeton_Edith"
+        },
+        {
+            "source": "gentry",
+            "target": "Clerke_Ellen_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Wheeler_Anna"
+        },
+        {
+            "source": "gentry",
+            "target": "Roberts_Emma"
+        },
+        {
+            "source": "gentry",
+            "target": "Maitland_Sara"
+        },
+        {
+            "source": "gentry",
+            "target": "Darwall_Mary_Whateley"
+        },
+        {
+            "source": "gentry",
+            "target": "Thimelby_Winefrid"
+        },
+        {
+            "source": "gentry",
+            "target": "Tautphoeus_Jemima"
+        },
+        {
+            "source": "gentry",
+            "target": "Keary_Annie"
+        },
+        {
+            "source": "gentry",
+            "target": "Lincoln_Elizabeth_Clinton_Countess_of"
+        },
+        {
+            "source": "gentry",
+            "target": "Crosland_Camilla"
+        },
+        {
+            "source": "gentry",
+            "target": "Troubridge_Una"
+        },
+        {
+            "source": "gentry",
+            "target": "Savage_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Wollstonecraft_Mary"
+        },
+        {
+            "source": "gentry",
+            "target": "Gregory_Augusta"
+        },
+        {
+            "source": "gentry",
+            "target": "Killigrew_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Cross_Victoria"
+        },
+        {
+            "source": "gentry",
+            "target": "Wenman_Agnes"
+        },
+        {
+            "source": "gentry",
+            "target": "Craik_Dinah_Mulock"
+        },
+        {
+            "source": "gentry",
+            "target": "Steele_Anna"
+        },
+        {
+            "source": "gentry",
+            "target": "Wharton_Anne"
+        },
+        {
+            "source": "gentry",
+            "target": "Wordsworth_Dorothy"
+        },
+        {
+            "source": "gentry",
+            "target": "Markievicz_Constance_Countess"
+        },
+        {
+            "source": "gentry",
+            "target": "Blaugdone_Barbara"
+        },
+        {
+            "source": "gentry",
+            "target": "Wiseman_Jane"
+        },
+        {
+            "source": "gentry",
+            "target": "Wilson_Harriette"
+        },
+        {
+            "source": "gentry",
+            "target": "Fielding_Sarah"
+        },
+        {
+            "source": "nobility",
+            "target": "Brett_Dorothy"
+        },
+        {
+            "source": "nobility",
+            "target": "Russell_Lady_Rachel"
+        },
+        {
+            "source": "nobility",
+            "target": "Byron_George_Gordon_sixth_Baron"
+        },
+        {
+            "source": "nobility",
+            "target": "Lewis_Alethea"
+        },
+        {
+            "source": "nobility",
+            "target": "Norton_Caroline"
+        },
+        {
+            "source": "nobility",
+            "target": "Wood_Emma_Caroline"
+        },
+        {
+            "source": "nobility",
+            "target": "Trotter_Catharine"
+        },
+        {
+            "source": "nobility",
+            "target": "Dixie_Florence"
+        },
+        {
+            "source": "nobility",
+            "target": "King_Harriet_Hamilton"
+        },
+        {
+            "source": "nobility",
+            "target": "Sackville-West_Vita"
+        },
+        {
+            "source": "nobility",
+            "target": "Lincoln_Elizabeth_Clinton_Countess_of"
+        },
+        {
+            "source": "nobility",
+            "target": "Eden_Emily"
+        },
+        {
+            "source": "nobility",
+            "target": "Marie_de_France"
+        },
+        {
+            "source": "nobility",
+            "target": "Kelly_Isabella"
+        },
+        {
+            "source": "nobility",
+            "target": "Godley_Charlotte"
+        },
+        {
+            "source": "nobility",
+            "target": "Conway_Anne"
+        },
+        {
+            "source": "nobility",
+            "target": "Carleton_Mary"
+        },
+        {
+            "source": "nobility",
+            "target": "Swinburne_Algernon_Charles"
+        },
+        {
+            "source": "nobility",
+            "target": "Abergavenny_Frances_Neville_Baroness"
+        },
+        {
+            "source": "nobility",
+            "target": "Morgan_Sydney_Owenson_Lady"
+        },
+        {
+            "source": "nobility",
+            "target": "Fage_Mary"
+        },
+        {
+            "source": "nobility",
+            "target": "Barcynska_H\u00e9l\u00e8ne"
+        },
+        {
+            "source": "nobility",
+            "target": "Skene_Felicia"
+        },
+        {
+            "source": "nobility",
+            "target": "Kazantzis_Judith"
+        },
+        {
+            "source": "nobility",
+            "target": "Alison_Archibald_1792_-_1867"
+        },
+        {
+            "source": "nobility",
+            "target": "Aubin_Penelope"
+        },
+        {
+            "source": "nobility",
+            "target": "Fielding_Sarah"
+        },
+        {
+            "source": "nobility",
+            "target": "Halkett_Anne"
+        },
+        {
+            "source": "nobility",
+            "target": "Steele_Anna"
+        },
+        {
+            "source": "nobility",
+            "target": "Egerton_George"
+        },
+        {
+            "source": "nobility",
+            "target": "Houstoun_Matilda_Charlotte"
+        },
+        {
+            "source": "nobility",
+            "target": "Stuart_Lady_Louisa"
+        },
+        {
+            "source": "nobility",
+            "target": "Bowles_Caroline"
+        },
+        {
+            "source": "nobility",
+            "target": "Jebb_Ann"
+        },
+        {
+            "source": "nobility",
+            "target": "Hoby_Margaret"
+        },
+        {
+            "source": "nobility",
+            "target": "Sackville_Lady_Margaret"
+        },
+        {
+            "source": "nobility",
+            "target": "Huxley_Elspeth"
+        },
+        {
+            "source": "nobility",
+            "target": "Walker_Lady_Mary"
+        },
+        {
+            "source": "nobility",
+            "target": "Hervey_Elizabeth_1748_-_1820"
+        },
+        {
+            "source": "nobility",
+            "target": "Fraser_Antonia"
+        },
+        {
+            "source": "nobility",
+            "target": "Pinter_Harold"
+        },
+        {
+            "source": "nobility",
+            "target": "Cowper_Sarah_Lady"
+        },
+        {
+            "source": "nobility",
+            "target": "Butler_Josephine"
+        },
+        {
+            "source": "nobility",
+            "target": "Chopin_Kate"
+        },
+        {
+            "source": "nobility",
+            "target": "Fiennes_Celia"
+        },
+        {
+            "source": "nobility",
+            "target": "Legge_Margaret"
+        },
+        {
+            "source": "nobility",
+            "target": "Gore_Catherine"
+        },
+        {
+            "source": "nobility",
+            "target": "Tree_Iris"
+        },
+        {
+            "source": "nobility",
+            "target": "Tighe_Mary"
+        },
+        {
+            "source": "nobility",
+            "target": "Mitford_Mary_Russell"
+        },
+        {
+            "source": "nobility",
+            "target": "Kingsley_Fanny"
+        },
+        {
+            "source": "nobility",
+            "target": "Austen_Jane"
+        },
+        {
+            "source": "nobility",
+            "target": "Holland_Catherine"
+        },
+        {
+            "source": "nobility",
+            "target": "Bray_Anna_Eliza"
+        },
+        {
+            "source": "nobility",
+            "target": "Pulter_Lady_Hester"
+        },
+        {
+            "source": "nobility",
+            "target": "Brunton_Mary"
+        },
+        {
+            "source": "nobility",
+            "target": "Lucan_Margaret_Bingham_Countess"
+        },
+        {
+            "source": "nobility",
+            "target": "Blackwood_Caroline"
+        },
+        {
+            "source": "nobility",
+            "target": "Sappho"
+        },
+        {
+            "source": "nobility",
+            "target": "Doyle_Sir_Arthur_Conan"
+        },
+        {
+            "source": "nobility",
+            "target": "Conrad_Joseph"
+        },
+        {
+            "source": "nobility",
+            "target": "Trefusis_Violet"
+        },
+        {
+            "source": "nobility",
+            "target": "Wilde_Jane_Francesca_Lady"
+        },
+        {
+            "source": "nobility",
+            "target": "Devonshire_Georgiana_Cavendish_Duchess_of"
+        },
+        {
+            "source": "nobility",
+            "target": "Tweedsmuir_Susan"
+        },
+        {
+            "source": "nobility",
+            "target": "Anspach_Elizabeth_Margravine_of"
+        },
+        {
+            "source": "nobility",
+            "target": "Jacson_Maria_Elizabetha"
+        },
+        {
+            "source": "nobility",
+            "target": "Talbot_Catherine"
+        },
+        {
+            "source": "nobility",
+            "target": "Bowes_Lyon_Lilian"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Cobbold_Elizabeth"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Hume_Mary_Catherine"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Pix_Mary"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Marsden_Dora"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Sharp_Evelyn"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Kingsley_Fanny"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Tree_Iris"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Carrington_Leonora"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Harrison_Jane_Ellen"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Longworth_Maria_Theresa"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Dinesen_Isak"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Maitland_Sara"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Griffitts_Hannah"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Godden_Rumer"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Swan_Annie_S"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "James_Elinor"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Smith_Charlotte"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Molesworth_Mary_Louisa"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Simcox_Edith_J"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Montefiore_Charlotte"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Burnett_Frances_Hodgson"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Cook_Eliza"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Lucan_Margaret_Bingham_Countess"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Elstob_Elizabeth"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Villari_Linda"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Elliott_Charlotte"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Jones_Mary"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Mozley_Harriett"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Wilson_Harriette"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Yearsley_Ann"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Reid_Marion"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Williams_Sarah"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Fawcett_Millicent_Garrett"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Macquoid_Katharine_S"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Allen_Hannah"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Ouida"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Jewsbury_Maria_Jane"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Pfeiffer_Emily_Jane"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Hemans_Felicia"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Hull_E_M"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Cartland_Barbara"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Harvey_Jane"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Hunter_Rachel"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Aguilar_Grace"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Chopin_Kate"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Wright_Frances"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Swanwick_Anna"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Leapor_Mary"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Whitney_Isabella"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Gonne_Maud"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Mario_Jessie_White"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Bagnold_Enid"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Gore_Catherine"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Foster_Hannah_Webster"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Wollstonecraft_Mary"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Hays_Matilda"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Isham_Elizabeth"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "von_Arnim_Elizabeth"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Falconbridge_Anna_Maria"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Bentley_Phyllis"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Radcliffe_Mary_Ann"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Jesse_F_Tennyson"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Bryher"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Hofland_Barbara"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Speght_Rachel"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Sewell_Anna"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Fenwick_Eliza"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Banks_Isabella"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Tweedsmuir_Susan"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Robinson_Mary"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Lynch_Hannah"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Green_Henry"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Dacre_Charlotte"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Evans_Katharine"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Mozley_Anne"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "H\u00e9lo\u00efse"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Tree_Viola"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Brittain_Vera"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Davies_Emily"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Ford_Isabella_Ormston"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Morton_Sarah_Wentworth"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Dillwyn_E_A"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Rhondda_Margaret_Haig_Viscountess"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Arendt_Hannah"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Mirrlees_Hope"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Scott_Mary"
+        },
+        {
+            "source": "entrepreneurial-industrialist",
+            "target": "Young_E_H"
+        }
+    ]
+}

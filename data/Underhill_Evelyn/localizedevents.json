@@ -1,0 +1,45 @@
+{
+    "http://cwrc.ca/cwrcdata/undeev_InstitutionalEducation_Event2": [
+        [
+            "-0.12574",
+            "51.50853"
+        ],
+        "1893: EU enlisted in the recently established Ladies' Department of King's College in Kensington ."
+    ],
+    "http://cwrc.ca/cwrcdata/undeev_travelsTo_Event1": [
+        [
+            "2",
+            "46"
+        ],
+        [
+            "12.83333",
+            "42.83333"
+        ],
+        "1898: Accompanied by her mother, EU made the first of what later amounted to sixteen trips in her life to the European continent. On this occasion they visited Italy and France."
+    ],
+    "http://cwrc.ca/cwrcdata/undeev_InstitutionalEducation_Event1": [
+        [
+            "1.16734",
+            "51.08169"
+        ],
+        [
+            "1.13949",
+            "51.07452"
+        ],
+        "By summer 1888: EU began attending Sandgate House, a boarding school in the village of Sandgate , near Folkestone in Kent ."
+    ],
+    "http://cwrc.ca/cwrcdata/undeev_Occupation_Event2": [
+        [
+            "1.07992",
+            "51.27904"
+        ],
+        "1927: By invitation, EU led an Anglican retreat at Canterbury Cathedral, the first woman to do this."
+    ],
+    "http://cwrc.ca/cwrcdata/undeev_Occupation_Event1": [
+        [
+            "0.4131",
+            "51.80442"
+        ],
+        "March 1924: EU conducted a three-day religious retreat during Lent at Pleshey in Essex, the first of many in the years that followed."
+    ]
+}

@@ -1,0 +1,70 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+#graph {
+  width: 2rem;
+  height: 2rem;
+}
+
+#index-container {
+  position: absolute;
+  text-align: center;
+  right: 0rem;
+  background-color: black;
+  color: #00cc00;
+  height: 100%;
+  width: 16rem;
+}
+
+
+.index-element {
+  position: relative;
+  width:90%;
+  margin: 0.4rem;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  margin-bottom: 0.3rem;
+  color: white;
+}
+
+#display-selection {
+  text-align: left;
+  margin-left: 2rem;
+  margin-top: 0.5rem;
+}
+
+#authors-name-input {
+  width: 80%;
+}
+
+#notabene{
+  color: white;
+  margin-top: 2px;
+  padding-top: 0;
+  border-top: 0;
+  font-size: small;
+}
+
+#select-predicate-values {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+a {
+  color: pink;
+}
+
+#big-div {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}

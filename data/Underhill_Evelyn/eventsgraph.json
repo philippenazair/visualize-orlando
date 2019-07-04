@@ -1,0 +1,37 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Underhill_Evelyn"
+        },
+        {
+            "group": 66,
+            "id": "Events"
+        },
+        {
+            "group": 56,
+            "id": "By November 1905: To feed her growing interest in spiritualism and the occult, EU joined the Hermetic Order of the Golden Dawn."
+        },
+        {
+            "group": 56,
+            "id": "By early 1921: EU returned actively to the Church ofEngland, in which she had been baptised and confirmed. Fourteen years earlier the move would have been unthinkable, as she could not then accept Anglican teachings."
+        }
+    ],
+    "links": [
+        {
+            "source": "Underhill_Evelyn",
+            "target": "Events"
+        },
+        {
+            "source": "Underhill_Evelyn",
+            "target": "By November 1905: To feed her growing interest in spiritualism and the occult, EU joined the Hermetic Order of the Golden Dawn."
+        },
+        {
+            "source": "Underhill_Evelyn",
+            "target": "By early 1921: EU returned actively to the Church ofEngland, in which she had been baptised and confirmed. Fourteen years earlier the move would have been unthinkable, as she could not then accept Anglican teachings."
+        }
+    ]
+}

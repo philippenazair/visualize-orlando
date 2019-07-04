@@ -1,0 +1,137 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "author",
+            "group": 1,
+            "id": "Underhill_Evelyn"
+        },
+        {
+            "group": 2,
+            "id": "Politics"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "woman"
+        },
+        {
+            "concept": "hasevent",
+            "group": 2,
+            "id": "hasEvent"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/undeev_Religion_Event1"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/undeev_CulturalForm_Event1"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 2,
+            "id": "hasReligion"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "tractarianMovement"
+        },
+        {
+            "group": 9,
+            "id": "Social Class"
+        },
+        {
+            "group": 97,
+            "id": "professional"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "catholicism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "pacifism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "socialism"
+        },
+        {
+            "concept": "memberof",
+            "group": 2,
+            "id": "memberOf"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Anglican_Church_ORG"
+        }
+    ],
+    "links": [
+        {
+            "source": "Underhill_Evelyn",
+            "target": "Politics"
+        },
+        {
+            "source": "Underhill_Evelyn",
+            "target": "hasEvent"
+        },
+        {
+            "source": "Underhill_Evelyn",
+            "target": "hasReligion"
+        },
+        {
+            "source": "Underhill_Evelyn",
+            "target": "Social Class"
+        },
+        {
+            "source": "Underhill_Evelyn",
+            "target": "memberOf"
+        },
+        {
+            "source": "Politics",
+            "target": "woman"
+        },
+        {
+            "source": "Politics",
+            "target": "pacifism"
+        },
+        {
+            "source": "Politics",
+            "target": "socialism"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/undeev_Religion_Event1"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/undeev_CulturalForm_Event1"
+        },
+        {
+            "source": "hasReligion",
+            "target": "tractarianMovement"
+        },
+        {
+            "source": "hasReligion",
+            "target": "catholicism"
+        },
+        {
+            "source": "Social Class",
+            "target": "professional"
+        },
+        {
+            "source": "memberOf",
+            "target": "Anglican_Church_ORG"
+        }
+    ]
+}

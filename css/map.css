@@ -1,0 +1,56 @@
+html, body {
+  width: 100%;
+}
+
+#index-container-for-maps {
+  position: absolute;
+  text-align: center;
+  right: 0rem;
+  top: 0rem;
+  background-color: white;
+  color: black;
+  height: 100%;
+  width: 16rem;
+}
+
+#mapcontainer {
+  float: left;
+  margin-right: 3rem;
+  margin-bottom: 2rem;
+}
+
+#datadisplay {
+  width: 80%;
+  margin: 3rem;
+
+}
+
+#mapid {
+  width: 800px;
+  height: 550px;
+}
+
+#biographyctn {
+  text-align: justify;
+}
+
+
+h2{
+  color: #c7b8d4
+}
+
+
+a {
+  color: #451571;
+}
+
+.index-element {
+  position: relative;
+  width:90%;
+  margin: 0.4rem;
+}
+
+#moarinfo {
+  font-size: 70%;
+  text-align: center;
+}

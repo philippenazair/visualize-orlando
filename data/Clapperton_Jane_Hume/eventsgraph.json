@@ -1,0 +1,45 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Clapperton_Jane_Hume"
+        },
+        {
+            "group": 66,
+            "id": "Events"
+        },
+        {
+            "group": 56,
+            "id": "26 June-5 July 1899: JHC sat on the Legislative and Industrial Sub-Committee of the International Congress of Women , held in London."
+        },
+        {
+            "group": 56,
+            "id": "1885-9: JHC was an associate of Karl Pearson's Men and Women's Club, which was formed in London to debate the relations of the sexes."
+        },
+        {
+            "group": 56,
+            "id": "1871: In this year JHC joined the Edinburgh branch of the National Society for Women's Suffrage."
+        }
+    ],
+    "links": [
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "Events"
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "26 June-5 July 1899: JHC sat on the Legislative and Industrial Sub-Committee of the International Congress of Women , held in London."
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "1885-9: JHC was an associate of Karl Pearson's Men and Women's Club, which was formed in London to debate the relations of the sexes."
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "1871: In this year JHC joined the Edinburgh branch of the National Society for Women's Suffrage."
+        }
+    ]
+}

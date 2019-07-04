@@ -1,0 +1,226 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "author",
+            "group": 1,
+            "id": "Clapperton_Jane_Hume"
+        },
+        {
+            "group": 2,
+            "id": "Politics"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "marriageLawReform"
+        },
+        {
+            "concept": "memberof",
+            "group": 2,
+            "id": "memberOf"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "International_Congress_of_Women_ORG"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "birthControlActivism"
+        },
+        {
+            "group": 9,
+            "id": "Social Class"
+        },
+        {
+            "group": 97,
+            "id": "entrepreneurial-industrialist"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "feministInternationalism"
+        },
+        {
+            "group": 8,
+            "id": "International Labour Party"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "propertyLawReform"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "woman"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 2,
+            "id": "hasReligion"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "presbyterianism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "co-operativeMovement"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "feminism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "suffrage"
+        },
+        {
+            "concept": "hasevent",
+            "group": 2,
+            "id": "hasEvent"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/clapja_Political_Event3"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Presbyterian_Church_ORG"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "socialism"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Labour_Party_ORG"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/clapja_Political_Event2"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "liberalism"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/clapja_Political_Event1"
+        }
+    ],
+    "links": [
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "Politics"
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "memberOf"
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "Social Class"
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "hasReligion"
+        },
+        {
+            "source": "Clapperton_Jane_Hume",
+            "target": "hasEvent"
+        },
+        {
+            "source": "Politics",
+            "target": "marriageLawReform"
+        },
+        {
+            "source": "Politics",
+            "target": "birthControlActivism"
+        },
+        {
+            "source": "Politics",
+            "target": "feministInternationalism"
+        },
+        {
+            "source": "Politics",
+            "target": "International Labour Party"
+        },
+        {
+            "source": "Politics",
+            "target": "propertyLawReform"
+        },
+        {
+            "source": "Politics",
+            "target": "woman"
+        },
+        {
+            "source": "Politics",
+            "target": "co-operativeMovement"
+        },
+        {
+            "source": "Politics",
+            "target": "feminism"
+        },
+        {
+            "source": "Politics",
+            "target": "suffrage"
+        },
+        {
+            "source": "Politics",
+            "target": "socialism"
+        },
+        {
+            "source": "Politics",
+            "target": "liberalism"
+        },
+        {
+            "source": "memberOf",
+            "target": "International_Congress_of_Women_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Presbyterian_Church_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Labour_Party_ORG"
+        },
+        {
+            "source": "Social Class",
+            "target": "entrepreneurial-industrialist"
+        },
+        {
+            "source": "hasReligion",
+            "target": "presbyterianism"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/clapja_Political_Event3"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/clapja_Political_Event2"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/clapja_Political_Event1"
+        }
+    ]
+}

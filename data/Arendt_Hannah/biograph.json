@@ -1,0 +1,101 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "author",
+            "group": 1,
+            "id": "Arendt_Hannah"
+        },
+        {
+            "group": 2,
+            "id": "Politics"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "internationalism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "zionism"
+        },
+        {
+            "group": 9,
+            "id": "Social Class"
+        },
+        {
+            "group": 97,
+            "id": "entrepreneurial-industrialist"
+        },
+        {
+            "concept": "memberof",
+            "group": 2,
+            "id": "memberOf"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Judaism_ORG"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Zionism_ORG"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "anti-Fascism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "woman"
+        }
+    ],
+    "links": [
+        {
+            "source": "Arendt_Hannah",
+            "target": "Politics"
+        },
+        {
+            "source": "Arendt_Hannah",
+            "target": "Social Class"
+        },
+        {
+            "source": "Arendt_Hannah",
+            "target": "memberOf"
+        },
+        {
+            "source": "Politics",
+            "target": "internationalism"
+        },
+        {
+            "source": "Politics",
+            "target": "zionism"
+        },
+        {
+            "source": "Politics",
+            "target": "anti-Fascism"
+        },
+        {
+            "source": "Politics",
+            "target": "woman"
+        },
+        {
+            "source": "Social Class",
+            "target": "entrepreneurial-industrialist"
+        },
+        {
+            "source": "memberOf",
+            "target": "Judaism_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Zionism_ORG"
+        }
+    ]
+}

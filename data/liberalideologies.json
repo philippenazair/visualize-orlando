@@ -1,0 +1,582 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "predicate",
+            "group": 1,
+            "id": "feminism"
+        },
+        {
+            "concept": "predicate",
+            "group": 2,
+            "id": "liberalism"
+        },
+        {
+            "concept": "predicate",
+            "group": 3,
+            "id": "suffrage"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Paston_George"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gilman_Charlotte_Perkins"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "M\u00fcller_Henrietta"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Wilcox_Ella_Wheeler"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Irigaray_Luce"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kingsford_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cixous_H\u00e9l\u00e8ne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jellicoe_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Roberts_Mich\u00e8le"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stopes_Marie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Richardson_Henry_Handel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Grand_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lyall_Edna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rhondda_Margaret_Haig_Viscountess"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Duff_Gordon_Lucie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Johnstone_Christian_Isobel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stott_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "N\u00ed_Chuillean\u00e1in_Eil\u00e9an"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Moore_Marianne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Page_Louise"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Box_Muriel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lamb_Lady_Caroline"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brooke_Emma_Frances"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Baker_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jin_Meiling"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hume_Mary_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Moore_Edith_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Smedley_Constance"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Laurence_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dillwyn_E_A"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brassey_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sinclair_May"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Maitland_Sara"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sch\u00fctze_Gladys_Henrietta"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Child_Lydia_Maria"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Naden_Constance"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Frye_Kate_Parry"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Nott_Kathleen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Duncan_Sara_Jeannette"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carter_Angela"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lowndes_Marie_Belloc"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Macnaughtan_Sarah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Taylor_Helen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Swan_Annie_S"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Williams-Ellis_Amabel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Duffy_Carol_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Clapperton_Jane_Hume"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Howitt_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rumens_Carol"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lytton_Constance"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Phelps_Elizabeth_Stuart"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Butler_Josephine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Alderman_Naomi"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Beach_Sylvia"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Houstoun_Matilda_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Rathbone_Eleanor"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Harraden_Beatrice"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Dixon_Ella_Hepworth"
+        }
+    ],
+    "links": [
+        {
+            "source": "feminism",
+            "target": "Gilman_Charlotte_Perkins"
+        },
+        {
+            "source": "feminism",
+            "target": "Irigaray_Luce"
+        },
+        {
+            "source": "feminism",
+            "target": "Kingsford_Anna"
+        },
+        {
+            "source": "feminism",
+            "target": "Cixous_H\u00e9l\u00e8ne"
+        },
+        {
+            "source": "feminism",
+            "target": "Jellicoe_Ann"
+        },
+        {
+            "source": "feminism",
+            "target": "Roberts_Mich\u00e8le"
+        },
+        {
+            "source": "feminism",
+            "target": "Stopes_Marie"
+        },
+        {
+            "source": "feminism",
+            "target": "N\u00ed_Chuillean\u00e1in_Eil\u00e9an"
+        },
+        {
+            "source": "feminism",
+            "target": "Moore_Marianne"
+        },
+        {
+            "source": "feminism",
+            "target": "Page_Louise"
+        },
+        {
+            "source": "feminism",
+            "target": "Box_Muriel"
+        },
+        {
+            "source": "feminism",
+            "target": "Lamb_Lady_Caroline"
+        },
+        {
+            "source": "feminism",
+            "target": "Brooke_Emma_Frances"
+        },
+        {
+            "source": "feminism",
+            "target": "Jin_Meiling"
+        },
+        {
+            "source": "feminism",
+            "target": "Hume_Mary_Catherine"
+        },
+        {
+            "source": "feminism",
+            "target": "Moore_Edith_Mary"
+        },
+        {
+            "source": "feminism",
+            "target": "Laurence_Margaret"
+        },
+        {
+            "source": "feminism",
+            "target": "Johnstone_Christian_Isobel"
+        },
+        {
+            "source": "feminism",
+            "target": "Maitland_Sara"
+        },
+        {
+            "source": "feminism",
+            "target": "Smedley_Constance"
+        },
+        {
+            "source": "feminism",
+            "target": "Child_Lydia_Maria"
+        },
+        {
+            "source": "feminism",
+            "target": "Naden_Constance"
+        },
+        {
+            "source": "feminism",
+            "target": "Paston_George"
+        },
+        {
+            "source": "feminism",
+            "target": "Carter_Angela"
+        },
+        {
+            "source": "feminism",
+            "target": "Williams-Ellis_Amabel"
+        },
+        {
+            "source": "feminism",
+            "target": "Duffy_Carol_Ann"
+        },
+        {
+            "source": "feminism",
+            "target": "Clapperton_Jane_Hume"
+        },
+        {
+            "source": "feminism",
+            "target": "Rumens_Carol"
+        },
+        {
+            "source": "feminism",
+            "target": "Phelps_Elizabeth_Stuart"
+        },
+        {
+            "source": "feminism",
+            "target": "Alderman_Naomi"
+        },
+        {
+            "source": "feminism",
+            "target": "Lowndes_Marie_Belloc"
+        },
+        {
+            "source": "liberalism",
+            "target": "M\u00fcller_Henrietta"
+        },
+        {
+            "source": "liberalism",
+            "target": "Grand_Sarah"
+        },
+        {
+            "source": "liberalism",
+            "target": "Lyall_Edna"
+        },
+        {
+            "source": "liberalism",
+            "target": "Rhondda_Margaret_Haig_Viscountess"
+        },
+        {
+            "source": "liberalism",
+            "target": "Duff_Gordon_Lucie"
+        },
+        {
+            "source": "liberalism",
+            "target": "Johnstone_Christian_Isobel"
+        },
+        {
+            "source": "liberalism",
+            "target": "Stott_Mary"
+        },
+        {
+            "source": "liberalism",
+            "target": "Dillwyn_E_A"
+        },
+        {
+            "source": "liberalism",
+            "target": "Brassey_Anna"
+        },
+        {
+            "source": "liberalism",
+            "target": "Sch\u00fctze_Gladys_Henrietta"
+        },
+        {
+            "source": "liberalism",
+            "target": "Frye_Kate_Parry"
+        },
+        {
+            "source": "liberalism",
+            "target": "Nott_Kathleen"
+        },
+        {
+            "source": "liberalism",
+            "target": "Duncan_Sara_Jeannette"
+        },
+        {
+            "source": "liberalism",
+            "target": "Taylor_Helen"
+        },
+        {
+            "source": "liberalism",
+            "target": "Swan_Annie_S"
+        },
+        {
+            "source": "liberalism",
+            "target": "Butler_Josephine"
+        },
+        {
+            "source": "liberalism",
+            "target": "Houstoun_Matilda_Charlotte"
+        },
+        {
+            "source": "liberalism",
+            "target": "Smedley_Constance"
+        },
+        {
+            "source": "liberalism",
+            "target": "Rathbone_Eleanor"
+        },
+        {
+            "source": "suffrage",
+            "target": "Paston_George"
+        },
+        {
+            "source": "suffrage",
+            "target": "Wilcox_Ella_Wheeler"
+        },
+        {
+            "source": "suffrage",
+            "target": "Richardson_Henry_Handel"
+        },
+        {
+            "source": "suffrage",
+            "target": "Baker_Elizabeth"
+        },
+        {
+            "source": "suffrage",
+            "target": "Smedley_Constance"
+        },
+        {
+            "source": "suffrage",
+            "target": "Sinclair_May"
+        },
+        {
+            "source": "suffrage",
+            "target": "Lyall_Edna"
+        },
+        {
+            "source": "suffrage",
+            "target": "Stopes_Marie"
+        },
+        {
+            "source": "suffrage",
+            "target": "Lowndes_Marie_Belloc"
+        },
+        {
+            "source": "suffrage",
+            "target": "Sch\u00fctze_Gladys_Henrietta"
+        },
+        {
+            "source": "suffrage",
+            "target": "Macnaughtan_Sarah"
+        },
+        {
+            "source": "suffrage",
+            "target": "Howitt_Mary"
+        },
+        {
+            "source": "suffrage",
+            "target": "Lytton_Constance"
+        },
+        {
+            "source": "suffrage",
+            "target": "Phelps_Elizabeth_Stuart"
+        },
+        {
+            "source": "suffrage",
+            "target": "Beach_Sylvia"
+        },
+        {
+            "source": "suffrage",
+            "target": "Harraden_Beatrice"
+        },
+        {
+            "source": "suffrage",
+            "target": "Dixon_Ella_Hepworth"
+        }
+    ]
+}

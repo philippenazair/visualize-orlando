@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>3D-Graph Visualization</title>
+    <link rel="stylesheet" type="text/css" href="css/graph.css">
+    <script src="js/3d-force-graph.min.js"></script>
+    <script src="js/three.js"></script>
+    <script src="js/three-spritetext.min.js"></script>
+  </head>
+  <body>
+    <div id="big-div">
+      <div id="graph"></div>
+      <div id="index-container">
+        <h2>Graph Viewer</h2>
+        <div id="display-selection">
+          <label class="radio-input">Display mode</label><br>
+          <input id= "display-selection-r1" class="radio-input" type="radio" name="node-sprite" value="node">Nodes (draggable)<br>
+          <input id= "display-selection-r2" class="radio-input" type="radio" name="node-sprite" value="text" checked>Text (static)<br>
+        </div>
+        <h3>Query by Predicate</h3>
+        <select id="select-graph" class="index-element">
+          <option value="radicalideologies.json">Radical Ideologies</option>
+          <option value="liberalideologies.json">Liberal Ideologies</option>
+          <option value="sexualorientation.json">Sexual Orientations</option>
+          <option value="upperclasses.json">Upper Social Classes</option>
+          <option value="hasActivistInvolvementInFeminism.json">Involvement in Feminism</option>
+          <option value="hasActivistInvolvementinlabourMovement.json">Involvement in labour movement</option>
+          <option value="hasActivistInvolvementInSocialism.json">Involvement in Socialism</option>
+          <option value="hasActivistInvolvementInSuffrage.json">Involvement in suffrage movement</option>
+          <option value="agnosticism.json">Religion: Agnosticism</option>
+          <option value="anglicanism.json">Religion: Anglicanism</option>
+          <option value="atheism.json">Religion: Atheism</option>
+          <option value="catholicism.json">Religion: Catholicism</option>
+          <option value="christianity.json">Religion: Christinity</option>
+          <option value="congregationalism.json">Religion: Congregationalism</option>
+          <option value="dissentProtestant.json">Religion: Dissent Protestantism</option>
+          <option value="evangelicalism.json">Religion: Evangelicalism</option>
+          <option value="judaism.json">Religion: Judaism</option>
+          <option value="occultism.json">Religion: Occultism</option>
+          <option value="presbytarianism.json">Religion: Presbytarianism</option>
+          <option value="protestantism.json">Religion: Protestantism</option>
+          <option value="puritanism.json">Religion: Puritanism</option>
+          <option value="quakerism.json">Religion: Quakerism</option>
+          <option value="unitarianism.json">Religion: Unitarianism</option>
+          <option value="entrepreneurial-industrialist.json">Class: Entrepreneurial-Industrialist</option>
+          <option value="gentry.json">Class: Gentry</option>
+          <option value="indigent.json">Class: Indigent</option>
+          <option value="lowerMiddleClass.json">Class: Lower Middle Class</option>
+          <option value="managerial.json">Class: Managerial</option>
+          <option value="middleClass.json">Class: Middle Class</option>
+          <option value="nobility.json">Class: Nobility</option>
+          <option value="professional.json">Class: Professional</option>
+          <option value="rural-unskilled.json">Class: Rural/Unskilled</option>
+          <option value="servants.json">Class: Servants</option>
+          <option value="shopkeepers.json">Class: Shopkeepers</option>
+          <option value="skilledCraftpersonArtisan.json">Class: Skilled Craftperson & Artisan</option>
+          <option value="urban-industrialUnskilled.json">Class: Urban, Industrial & Unskilled</option>
+          <option value="workingClass.json">Class: Working Class</option>
+          <option value="yeoman-farmer.json">Class: Yeoman-Farmer</option>
+        </select>
+        <button id="display-button" class="index-element" onclick="displayPredicatesGraph()">Display Graph</button><br>
+        <h3>Query by Author</h3>
+        <label class="index-element"><br>Author's Name</label>
+        <select id="authors-name-input" class="index-element">
+          <option value="Woolf_Virginia">Virginia Woolf</option>
+          <option value="Arendt_Hannah">Hannah Arendt</option>
+          <option value="Underhill_Evelyn">Evelyn Underhill</option>
+          <option value="Clapperton_Jane_Hume">Jane Hume Clapperton</option>
+          <option value="Forbes_Rosita">Rosita Forbes</option>
+        </select>
+        <button class="index-element" onclick="displayBioGraph()">Bio.graph.y</button>
+        <button class="index-element" onclick="displayEventsGraph()">Events viewer</button>
+        <a href="map.html">Go to Map Viewer</a>
+      </div>
+    </div>
+
+    <script>
+      function displayGraph(graph_url) {
+        if (document.getElementById('display-selection-r1').checked){
+          const Graph = ForceGraph3D()
+          (document.getElementById('graph'))
+          .jsonUrl(graph_url)
+          .nodeAutoColorBy('group')
+          .linkOpacity(0.3)
+          .enableNodeDrag(true)
+          .onNodeHover(node => document.getElementById('graph').style.cursor = node ? 'pointer' : null) //NU
+          .nodeLabel('id') //NU
+          .onNodeClick(node => {
+            // Aim at node from outside it
+            const distance = 40;
+            const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
+            Graph.cameraPosition(
+              { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }, // new position
+              node, // lookAt ({ x, y, z })
+              3000  // ms transition duration
+            );
+            Graph.d3Force('charge').strength(-1200);
+            Graph.d3Force('link').strength(1);
+          });
+        } else if (document.getElementById('display-selection-r2').checked) {
+          const Graph = ForceGraph3D()
+          (document.getElementById('graph'))
+          .jsonUrl(graph_url)
+          .nodeAutoColorBy('group')
+          .linkOpacity(0.3)
+          .nodeThreeObject(node => {
+            const sprite = new SpriteText(node.id);
+            sprite.color = node.color;
+            sprite.textHeight = 8;
+            return sprite;
+          });
+          Graph.d3Force('charge').strength(-1200);
+          Graph.d3Force('link').strength(1);
+        }
+      }
+
+      function displayPredicatesGraph() {
+        let graph_url = "data/" + document.getElementById("select-graph").value;
+        displayGraph(graph_url);
+      }
+
+      function displayBioGraph() {
+        let graph_url = "data/" + document.getElementById("authors-name-input").value + "/biograph.json";
+        displayGraph(graph_url);
+      }
+
+      function displayEventsGraph() {
+        let graph_url = "data/" + document.getElementById("authors-name-input").value + "/eventsgraph.json";
+        displayGraph(graph_url);
+      }
+
+      displayGraph('data/radicalideologies.json');
+
+    </script>
+
+
+  </body>
+</html>

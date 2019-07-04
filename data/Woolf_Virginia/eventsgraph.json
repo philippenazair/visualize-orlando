@@ -1,0 +1,109 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Woolf_Virginia"
+        },
+        {
+            "group": 66,
+            "id": "Events"
+        },
+        {
+            "group": 56,
+            "id": "March 1933: VW rejected on principle an honorary Doctor of Letters degree from the University of Manchester. In March 1939 she rejected another honorary doctorate, from the University of Liverpool."
+        },
+        {
+            "group": 56,
+            "id": "9 November 1928: During the trial of Radclyffe Hall's novel The Well of Loneliness, VW attended with many friends and associates in order to give evidence, but the magistrate refused to hear testimony on literary merit."
+        },
+        {
+            "group": 56,
+            "id": "8 September 1928: The New Censorship, a letter to the editor protesting against the suppression of Radclyffe Hall's The Well of Loneliness and signed by VW and E. M. Forster, appeared in the Nation."
+        },
+        {
+            "group": 56,
+            "id": "February 1932: VW refused to deliver the Clark lecture series at Cambridge University, thereby also declining to succeed her father, scholar Leslie Stephen, in this honour."
+        },
+        {
+            "group": 56,
+            "id": " October 1920: VW published in The New Statesman two letters on The Intellectual Status of Women. She was responding to views expressed by Desmond MacCarthy, the Affable Hawk, in a review of Arnold Bennett's Our Women 1920."
+        },
+        {
+            "group": 56,
+            "id": "1935: In keeping with her anti-establishment position, VW declined the invitation to become a Companion of Honour."
+        },
+        {
+            "group": 56,
+            "id": "3-12 May 1926: During the General Strike, while VW was writing To the Lighthouse and Leonard helping to circulate a petition for fair treatment of miners after the strike, their house was suddenly filled with visitors, interrupting, arguing,..."
+        },
+        {
+            "group": 56,
+            "id": "15 May 1940: Virginia and Leonard Woolf discussed suicide in the quite probable event of a German invasion of England. They considered carbon monoxide poisoning in their garage, and, later, an overdose of morphia."
+        },
+        {
+            "group": 56,
+            "id": "1916-1920: VW organised and chaired twice-monthly meetings of the Richmond Women's Co-operative Guild."
+        },
+        {
+            "group": 56,
+            "id": "1 January 1910: Virginia Stephen (later VW) offered her support to the suffrage cause in a letter to her friend Janet Case. This led to her brief volunteer work with the People's Suffrage Federation which was run in..."
+        },
+        {
+            "group": 56,
+            "id": "21 January 1931: VW appeared with Ethel Smyth on the platform of the London and National Society for Women's Service (LNSWS, later renamed the Fawcett Society in honour of Millicent Garrett Fawcett)."
+        }
+    ],
+    "links": [
+        {
+            "source": "Woolf_Virginia",
+            "target": "Events"
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "March 1933: VW rejected on principle an honorary Doctor of Letters degree from the University of Manchester. In March 1939 she rejected another honorary doctorate, from the University of Liverpool."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "9 November 1928: During the trial of Radclyffe Hall's novel The Well of Loneliness, VW attended with many friends and associates in order to give evidence, but the magistrate refused to hear testimony on literary merit."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "8 September 1928: The New Censorship, a letter to the editor protesting against the suppression of Radclyffe Hall's The Well of Loneliness and signed by VW and E. M. Forster, appeared in the Nation."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "February 1932: VW refused to deliver the Clark lecture series at Cambridge University, thereby also declining to succeed her father, scholar Leslie Stephen, in this honour."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": " October 1920: VW published in The New Statesman two letters on The Intellectual Status of Women. She was responding to views expressed by Desmond MacCarthy, the Affable Hawk, in a review of Arnold Bennett's Our Women 1920."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "1935: In keeping with her anti-establishment position, VW declined the invitation to become a Companion of Honour."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "3-12 May 1926: During the General Strike, while VW was writing To the Lighthouse and Leonard helping to circulate a petition for fair treatment of miners after the strike, their house was suddenly filled with visitors, interrupting, arguing,..."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "15 May 1940: Virginia and Leonard Woolf discussed suicide in the quite probable event of a German invasion of England. They considered carbon monoxide poisoning in their garage, and, later, an overdose of morphia."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "1916-1920: VW organised and chaired twice-monthly meetings of the Richmond Women's Co-operative Guild."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "1 January 1910: Virginia Stephen (later VW) offered her support to the suffrage cause in a letter to her friend Janet Case. This led to her brief volunteer work with the People's Suffrage Federation which was run in..."
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "21 January 1931: VW appeared with Ethel Smyth on the platform of the London and National Society for Women's Service (LNSWS, later renamed the Fawcett Society in honour of Millicent Garrett Fawcett)."
+        }
+    ]
+}

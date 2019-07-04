@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Visualize this map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+     integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+     crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+     integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+     crossorigin=""></script>
+    <link rel="stylesheet" type="text/css" href="css/map.css">
+   </head>
+   <body>
+      <div id="datadisplay">
+        <div id="mapcontainer">
+          <div id="mapid"></div>
+          <span id="moarinfo">Click on localized events for more information</span>
+        </div>
+        <div id="biographyctn"></div>
+      </div>
+      <div id="index-container-for-maps"><br><br>
+        <h2 id="titre-index" class="index-element">Map Viewer</h2>
+       <label><br>Select Author:</label>
+       <select class="index-element" id="author_name">
+         <option value="Woolf_Virginia">Virginia Woolf</option>
+         <option value="Arendt_Hannah">Hannah Arendt</option>
+         <option value="Underhill_Evelyn">Evelyn Underhill</option>
+         <option value="Clapperton_Jane_Hume">Jane Hume Clapperton</option>
+         <option value="Forbes_Rosita">Rosita Forbes</option>
+       </select>
+       <br>
+       <label class="index-element">Select Predicate:</label>
+       <select class="index-element" id="selectpredicate">
+         <option value="BIR">Was born:</option>
+         <option value="TRA">Traveled to:</option>
+         <option value="INH">Inhabits:</option>
+         <option value="EVE">Localized events:</option>
+       </select>
+       <br>
+       <button class="index-element" id="refreshbtn" onclick=refreshMap()>Display</button>
+       <p><a href="index.html">Go to Graph Viewer</a></p>
+     </div>
+   </body>
+   <script>
+    const btn = document.getElementById("refreshbtn");
+    const select_author_name = document.getElementById("author_name");
+
+    select_author_name.addEventListener('input', function() {
+      displayOrlandoBiography();
+    })
+
+    var mymap = L.map('mapid').setView([51.50, 0], 3);
+
+    function displayOrlandoBiography(){
+      let author_name = document.getElementById('author_name').value;
+      let apiurl = "data/"+author_name+"/orlandobio.json";
+      fetch(apiurl)
+      .then(function(response){
+        return response.json();
+      }).then(function(orlandobio) {
+        document.getElementById('biographyctn').innerHTML = orlandobio;
+      })
+    }
+
+    displayOrlandoBiography();
+
+    function addOSMLayer(mymap) {
+      L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 25,
+        id: 'mapbox.streets',
+        accessToken: 'pk.eyJ1IjoicGhpbGlwcGVsZWxvaXIiLCJhIjoiY2ppMG50NWMwMTl6czNwczZsaTBnYTlobiJ9.BN-YLK4Z6EwxMb_mV35Z1Q'
+      }).addTo(mymap);
+    }
+
+    addOSMLayer(mymap);
+
+    function addMarkers() {
+      author_name = document.getElementById("author_name").value;
+
+      if (document.getElementById("selectpredicate").value == "BIR"){
+        fetch("data/"+author_name+"/wasborn.json")
+        .then(function(response) {
+          return response.json();
+        }).then(function(coords) {
+          let lat = parseFloat(coords.split("'")[1]);
+          let lon = parseFloat(coords.split("'")[3]);
+          var mark3 = L.marker([lon, lat]).addTo(mymap);
+          let string = "<b></b><br>" + author_name + " was born here";
+          mark3.bindPopup(string);
+        });
+      } else if (document.getElementById("selectpredicate").value == "TRA"){
+        fetch("data/"+author_name+"/travelsto.json")
+        .then(function(response) {
+          return response.json();
+        }).then(function(places) {
+          for (let i = 0; i < places.length; i++){
+            let lat = parseFloat(places[i][0]);
+            let lon = parseFloat(places[i][1]);
+            var marqueur = L.marker([lon, lat]).addTo(mymap);
+            let string = "<b></b><br>" + author_name + " travelled here";
+            marqueur.bindPopup(string);
+          }
+        });
+      }
+
+      if (document.getElementById("selectpredicate").value == "INH"){
+        fetch("data/"+author_name+"/inhabits.json")
+        .then(function(response) {
+          return response.json();
+        }).then(function(places) {
+          for (let i = 0; i < places.length; i++){
+            let lat = parseFloat(places[i][0])
+            let lon = parseFloat(places[i][1])
+            var marqueur = L.marker([lon, lat]).addTo(mymap);
+            let string = "<b></b><br>" + author_name + " lived here";
+            marqueur.bindPopup(string);
+          }
+        });
+      }
+
+      if (document.getElementById("selectpredicate").value == "EVE"){
+        fetch("data/"+author_name+"/localizedevents.json")
+        .then(function(response) {
+          return response.json();
+        }).then(function(events) {
+          for (var key in events) {
+            var text;
+            var lat = [];
+            var lon = [];
+            for (let i = 0; i < events[key].length; i++){ //FIRST I FIND THE TEXT
+              if (typeof events[key][i] === 'string') {
+                text = events[key][i];
+              }
+              if (Array.isArray(events[key][i])){
+                lat.push(parseFloat(events[key][i][0]));
+                lon.push(parseFloat(events[key][i][1]));
+              }
+            }
+            for (let i = 0; i < lat.length; i++){
+              marqueur = L.marker([lon[i], lat[i]]).addTo(mymap);
+              marqueur.bindPopup(text);
+            }
+          }
+        });
+      }
+    } //closes addMarkers
+
+    addMarkers();
+
+    function refreshMap() {
+        mymap.remove();
+        mymap = L.map('mapid').setView([51.50, 0], 3);
+        addOSMLayer(mymap);
+        addMarkers();
+        displayOrlandoBiography();
+    }
+
+   </script>
+</html>

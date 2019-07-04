@@ -1,0 +1,21 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Arendt_Hannah"
+        },
+        {
+            "group": 66,
+            "id": "Events"
+        }
+    ],
+    "links": [
+        {
+            "source": "Arendt_Hannah",
+            "target": "Events"
+        }
+    ]
+}

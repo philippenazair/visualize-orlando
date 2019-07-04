@@ -1,0 +1,754 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "predicate",
+            "group": 1,
+            "id": "lesbian"
+        },
+        {
+            "concept": "predicate",
+            "group": 2,
+            "id": "sexualityBisexuality"
+        },
+        {
+            "concept": "predicate",
+            "group": 3,
+            "id": "heterosexual"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hays_Matilda"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mead_Margaret"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sulter_Maud"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bannerman_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Malet_Lucas"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Davy_Sarah_1639_-_1670"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sappho"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Piers_Sarah_Lady"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Voynich_Ethel_Lilian"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Du_Maurier_Daphne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Devonshire_Elizabeth_Cavendish_Duchess_of"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sand_George"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gilman_Charlotte_Perkins"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bussy_Dorothy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Levy_Amy"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hopkins_Gerard_Manley"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Allatini_Rose"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Box_Muriel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Parkes_Bessie_Rayner"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Harrison_Jane_Ellen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cook_Eliza"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Graves_Clotilde"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Robinson_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Charke_Charlotte"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Somerville_Edith"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carrington_Dora"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Olsen_Tillie"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Talbot_Catherine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hamilton_Mary_Agnes"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Streatfeild_Noel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Robinson_F_Mabel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Carter_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Evans_Katharine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Devonshire_Georgiana_Cavendish_Duchess_of"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Montagu_Lady_Mary_Wortley"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Smyth_Ethel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Pankhurst_Christabel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Tey_Josephine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Radcliffe_Ann"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Field_Michael"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Jaeger_Muriel"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stein_Gertrude"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cather_Willa"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Bedford_Sybille"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Furlong_Monica"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Damer_Anne"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Brand_Hannah"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Byron_George_Gordon_sixth_Baron"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Murdoch_Iris"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "H_D"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Colette"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Stead_Christina"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Lee_Vernon"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Seward_Anna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Barnes_Djuna"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ackland_Valentine"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Gore-Booth_Eva"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Caffyn_Kathleen"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Fanthorpe_U_A"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mackay_Shena"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Morris_Jan"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Ross_Martin"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cobbe_Frances_Power"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Cable_Mildred"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Holtby_Winifred"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Kempe_Margery"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Troubridge_Una"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Delany_Mary"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Frankau_Pamela"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Mirrlees_Hope"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Procter_Adelaide"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Hamilton_Elizabeth"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Sayers_Dorothy_L"
+        },
+        {
+            "concept": "author",
+            "group": 99,
+            "id": "Weldon_Fay"
+        }
+    ],
+    "links": [
+        {
+            "source": "lesbian",
+            "target": "Hays_Matilda"
+        },
+        {
+            "source": "lesbian",
+            "target": "Bannerman_Anne"
+        },
+        {
+            "source": "lesbian",
+            "target": "Malet_Lucas"
+        },
+        {
+            "source": "lesbian",
+            "target": "Davy_Sarah_1639_-_1670"
+        },
+        {
+            "source": "lesbian",
+            "target": "Piers_Sarah_Lady"
+        },
+        {
+            "source": "lesbian",
+            "target": "Voynich_Ethel_Lilian"
+        },
+        {
+            "source": "lesbian",
+            "target": "Du_Maurier_Daphne"
+        },
+        {
+            "source": "lesbian",
+            "target": "Sand_George"
+        },
+        {
+            "source": "lesbian",
+            "target": "Gilman_Charlotte_Perkins"
+        },
+        {
+            "source": "lesbian",
+            "target": "Bussy_Dorothy"
+        },
+        {
+            "source": "lesbian",
+            "target": "Levy_Amy"
+        },
+        {
+            "source": "lesbian",
+            "target": "Parkes_Bessie_Rayner"
+        },
+        {
+            "source": "lesbian",
+            "target": "Harrison_Jane_Ellen"
+        },
+        {
+            "source": "lesbian",
+            "target": "Cook_Eliza"
+        },
+        {
+            "source": "lesbian",
+            "target": "Graves_Clotilde"
+        },
+        {
+            "source": "lesbian",
+            "target": "Somerville_Edith"
+        },
+        {
+            "source": "lesbian",
+            "target": "Carrington_Dora"
+        },
+        {
+            "source": "lesbian",
+            "target": "Olsen_Tillie"
+        },
+        {
+            "source": "lesbian",
+            "target": "Hamilton_Mary_Agnes"
+        },
+        {
+            "source": "lesbian",
+            "target": "Streatfeild_Noel"
+        },
+        {
+            "source": "lesbian",
+            "target": "Carter_Elizabeth"
+        },
+        {
+            "source": "lesbian",
+            "target": "Pankhurst_Christabel"
+        },
+        {
+            "source": "lesbian",
+            "target": "Radcliffe_Ann"
+        },
+        {
+            "source": "lesbian",
+            "target": "Field_Michael"
+        },
+        {
+            "source": "lesbian",
+            "target": "Jaeger_Muriel"
+        },
+        {
+            "source": "lesbian",
+            "target": "Stein_Gertrude"
+        },
+        {
+            "source": "lesbian",
+            "target": "Cather_Willa"
+        },
+        {
+            "source": "lesbian",
+            "target": "Bedford_Sybille"
+        },
+        {
+            "source": "lesbian",
+            "target": "Damer_Anne"
+        },
+        {
+            "source": "lesbian",
+            "target": "Brand_Hannah"
+        },
+        {
+            "source": "lesbian",
+            "target": "H_D"
+        },
+        {
+            "source": "lesbian",
+            "target": "Colette"
+        },
+        {
+            "source": "lesbian",
+            "target": "Stead_Christina"
+        },
+        {
+            "source": "lesbian",
+            "target": "Lee_Vernon"
+        },
+        {
+            "source": "lesbian",
+            "target": "Gore-Booth_Eva"
+        },
+        {
+            "source": "lesbian",
+            "target": "Fanthorpe_U_A"
+        },
+        {
+            "source": "lesbian",
+            "target": "Morris_Jan"
+        },
+        {
+            "source": "lesbian",
+            "target": "Cobbe_Frances_Power"
+        },
+        {
+            "source": "lesbian",
+            "target": "Cable_Mildred"
+        },
+        {
+            "source": "lesbian",
+            "target": "Holtby_Winifred"
+        },
+        {
+            "source": "lesbian",
+            "target": "Talbot_Catherine"
+        },
+        {
+            "source": "lesbian",
+            "target": "Troubridge_Una"
+        },
+        {
+            "source": "lesbian",
+            "target": "Delany_Mary"
+        },
+        {
+            "source": "lesbian",
+            "target": "Evans_Katharine"
+        },
+        {
+            "source": "lesbian",
+            "target": "Mirrlees_Hope"
+        },
+        {
+            "source": "lesbian",
+            "target": "Procter_Adelaide"
+        },
+        {
+            "source": "lesbian",
+            "target": "Hamilton_Elizabeth"
+        },
+        {
+            "source": "lesbian",
+            "target": "Allatini_Rose"
+        },
+        {
+            "source": "lesbian",
+            "target": "Seward_Anna"
+        },
+        {
+            "source": "lesbian",
+            "target": "Weldon_Fay"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Mead_Margaret"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Sulter_Maud"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Hopkins_Gerard_Manley"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Allatini_Rose"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Robinson_Mary"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Charke_Charlotte"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Smyth_Ethel"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Du_Maurier_Daphne"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Montagu_Lady_Mary_Wortley"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Byron_George_Gordon_sixth_Baron"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Murdoch_Iris"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Devonshire_Georgiana_Cavendish_Duchess_of"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Devonshire_Elizabeth_Cavendish_Duchess_of"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Mackay_Shena"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Ross_Martin"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Frankau_Pamela"
+        },
+        {
+            "source": "sexualityBisexuality",
+            "target": "Barnes_Djuna"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Sappho"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Devonshire_Elizabeth_Cavendish_Duchess_of"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Box_Muriel"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Allatini_Rose"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Talbot_Catherine"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Robinson_F_Mabel"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Evans_Katharine"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Devonshire_Georgiana_Cavendish_Duchess_of"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Montagu_Lady_Mary_Wortley"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Gilman_Charlotte_Perkins"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Bussy_Dorothy"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Tey_Josephine"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Voynich_Ethel_Lilian"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Robinson_Mary"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Furlong_Monica"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Seward_Anna"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Barnes_Djuna"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Ackland_Valentine"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Caffyn_Kathleen"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Kempe_Margery"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Harrison_Jane_Ellen"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Parkes_Bessie_Rayner"
+        },
+        {
+            "source": "heterosexual",
+            "target": "Sayers_Dorothy_L"
+        }
+    ]
+}

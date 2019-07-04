@@ -1,0 +1,21 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Forbes_Rosita"
+        },
+        {
+            "group": 66,
+            "id": "Events"
+        }
+    ],
+    "links": [
+        {
+            "source": "Forbes_Rosita",
+            "target": "Events"
+        }
+    ]
+}

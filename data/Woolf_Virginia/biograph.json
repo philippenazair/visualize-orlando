@@ -1,0 +1,359 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "author",
+            "group": 1,
+            "id": "Woolf_Virginia"
+        },
+        {
+            "concept": "hasevent",
+            "group": 2,
+            "id": "hasEvent"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event9"
+        },
+        {
+            "group": 2,
+            "id": "Politics"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "suffrage"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 2,
+            "id": "hasReligion"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "agnosticism"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event6"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event5"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "internationalism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "anti-Censorship"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "anti-War"
+        },
+        {
+            "concept": "memberof",
+            "group": 2,
+            "id": "memberOf"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "International_Association_of_Writers_for_the_Defence_of_Culture_ORG"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event8"
+        },
+        {
+            "group": 9,
+            "id": "Sexuality"
+        },
+        {
+            "group": 98,
+            "id": "sexualityBisexuality"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event3"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event10"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "For_Intellectual_Liberty_ORG"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "feminism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "pacifism"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event4"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Society_of_Friends_ORG"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Labour_Party_ORG"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event11"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "National_Council_for_Civil_Liberties_ORG"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Fawcett_Society_ORG"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "civilLibertarianism"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event2"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "evangelicalism"
+        },
+        {
+            "group": 8,
+            "id": "Women's Co-operative Guild"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event1"
+        },
+        {
+            "group": 9,
+            "id": "Social Class"
+        },
+        {
+            "group": 97,
+            "id": "professional"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "socialism"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "quakerism"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "woman"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "anti-Fascism"
+        },
+        {
+            "concept": "hasevent",
+            "group": 4,
+            "id": "http://cwrc.ca/cwrcdata/woolvi_Political_Event7"
+        }
+    ],
+    "links": [
+        {
+            "source": "Woolf_Virginia",
+            "target": "hasEvent"
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "Politics"
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "hasReligion"
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "memberOf"
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "Sexuality"
+        },
+        {
+            "source": "Woolf_Virginia",
+            "target": "Social Class"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event9"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event6"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event5"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event8"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event3"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event10"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event4"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event11"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event2"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event1"
+        },
+        {
+            "source": "hasEvent",
+            "target": "http://cwrc.ca/cwrcdata/woolvi_Political_Event7"
+        },
+        {
+            "source": "Politics",
+            "target": "suffrage"
+        },
+        {
+            "source": "Politics",
+            "target": "internationalism"
+        },
+        {
+            "source": "Politics",
+            "target": "anti-Censorship"
+        },
+        {
+            "source": "Politics",
+            "target": "anti-War"
+        },
+        {
+            "source": "Politics",
+            "target": "feminism"
+        },
+        {
+            "source": "Politics",
+            "target": "pacifism"
+        },
+        {
+            "source": "Politics",
+            "target": "civilLibertarianism"
+        },
+        {
+            "source": "Politics",
+            "target": "Women's Co-operative Guild"
+        },
+        {
+            "source": "Politics",
+            "target": "socialism"
+        },
+        {
+            "source": "Politics",
+            "target": "woman"
+        },
+        {
+            "source": "Politics",
+            "target": "anti-Fascism"
+        },
+        {
+            "source": "hasReligion",
+            "target": "agnosticism"
+        },
+        {
+            "source": "hasReligion",
+            "target": "evangelicalism"
+        },
+        {
+            "source": "hasReligion",
+            "target": "quakerism"
+        },
+        {
+            "source": "memberOf",
+            "target": "International_Association_of_Writers_for_the_Defence_of_Culture_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "For_Intellectual_Liberty_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Society_of_Friends_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Labour_Party_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "National_Council_for_Civil_Liberties_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Fawcett_Society_ORG"
+        },
+        {
+            "source": "Sexuality",
+            "target": "sexualityBisexuality"
+        },
+        {
+            "source": "Social Class",
+            "target": "professional"
+        }
+    ]
+}

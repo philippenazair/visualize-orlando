@@ -1,0 +1,110 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "concept": "author",
+            "group": 1,
+            "id": "Forbes_Rosita"
+        },
+        {
+            "concept": "memberof",
+            "group": 2,
+            "id": "memberOf"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Islam_ORG"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 2,
+            "id": "hasReligion"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "buddhism"
+        },
+        {
+            "concept": "hasreligion",
+            "group": 6,
+            "id": "islam"
+        },
+        {
+            "group": 9,
+            "id": "Social Class"
+        },
+        {
+            "group": 97,
+            "id": "gentry"
+        },
+        {
+            "group": 2,
+            "id": "Politics"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "woman"
+        },
+        {
+            "concept": "polmembership",
+            "group": 8,
+            "id": "patriotism"
+        },
+        {
+            "concept": "memberof",
+            "group": 3,
+            "id": "Christianity_ORG"
+        }
+    ],
+    "links": [
+        {
+            "source": "Forbes_Rosita",
+            "target": "memberOf"
+        },
+        {
+            "source": "Forbes_Rosita",
+            "target": "hasReligion"
+        },
+        {
+            "source": "Forbes_Rosita",
+            "target": "Social Class"
+        },
+        {
+            "source": "Forbes_Rosita",
+            "target": "Politics"
+        },
+        {
+            "source": "memberOf",
+            "target": "Islam_ORG"
+        },
+        {
+            "source": "memberOf",
+            "target": "Christianity_ORG"
+        },
+        {
+            "source": "hasReligion",
+            "target": "buddhism"
+        },
+        {
+            "source": "hasReligion",
+            "target": "islam"
+        },
+        {
+            "source": "Social Class",
+            "target": "gentry"
+        },
+        {
+            "source": "Politics",
+            "target": "woman"
+        },
+        {
+            "source": "Politics",
+            "target": "patriotism"
+        }
+    ]
+}
